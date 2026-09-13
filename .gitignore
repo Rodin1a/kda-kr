@@ -32,6 +32,11 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+AGENTS.md*
+CLAUDE.md*
+docker-compose.yml*
+ecosystem.config.js*
+package-lock.json*
 
 # vercel
 .vercel
@@ -39,8 +44,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-AGENTS.md
-CLAUDE.md
-docker-compose.yml
-ecosystem.config.js
-package-lock.json
