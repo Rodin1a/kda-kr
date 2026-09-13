@@ -1,0 +1,2 @@
+# Riot Developer Portal Verification File
+# Replace this line with the verification key provided by Riot Games Developer Portal (e.g. 12345678-abcd-efgh-1234-56789abcdef0)
